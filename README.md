@@ -15,7 +15,7 @@ This project is a comprehensive Python script designed to help users manage thei
 ### How to Use:
 
 1.  **Clone the Repository:** `git clone your-repo-url](https://github.com/Ankitzoro/-Personal-Finance-Tracker.git`
-2.  **Navigate to the Directory:** `cd personal-finance-tracker`
+2.  **Navigate to the Directory:** `cd -personal-finance-tracker`
 3.  **Run the Script:** `PFT.py`.
 4.  **Interact:** The script includes example test cases (commented out) that you can uncomment to demonstrate its functionality. You can also integrate these functions into a larger application or a command-line interface.
 
